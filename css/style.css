@@ -1,0 +1,33 @@
+h1{
+    font-family: georgia;
+    font-style: italic;
+    font-size: 40px;
+    line-height: 60px;
+    color: #009000;
+}
+
+strong.azul{
+    color:#0047AB;
+}
+
+p{
+    font-family: verdana;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+a.menu{
+    font-family: consolas;
+    font-size: 20px;
+    line-height: 30px;
+    text-decoration: none;
+    color: #0047AB;
+}
+
+a.submenu{
+    font-family: consolas;
+    font-size: 20px;
+    line-height: 30px;
+    text-decoration: none;
+    color: #B22222;
+}
